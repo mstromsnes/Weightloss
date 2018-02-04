@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Weightloss</string>
+    <string name="vekt">Vekt</string>
+    <string name="fett">Fett</string>
+    <string name="muskel">Muskel</string>
+    <string name="vann">Vann</string>
+    <string name="bein">Bein</string>
+    <string name="kalori">Kalori</string>
+    <string name="button_send_string">Send data</string>
+</resources>
